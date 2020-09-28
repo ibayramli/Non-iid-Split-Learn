@@ -1,0 +1,1 @@
+{"automobile": 0, "frog": 1, "truck": 2, "horse": 3, "ship": 4, "cat": 5, "dog": 6, "bird": 7, "deer": 8, "airplane": 9}
